@@ -1,0 +1,50 @@
+airplane
+apple
+banana
+bee
+bicycle
+bird
+birthday cake
+bowtie
+butterfly
+cat
+chair
+clock
+crown
+dog
+donut
+door
+eyeglasses
+flower
+flying saucer
+hammer
+hot air balloon
+hot dog
+ice cream
+laptop
+light bulb
+moon
+mug
+mushroom
+paper clip
+pencil
+power outlet
+sailboat
+smiley face
+snake
+snowman
+stairs
+star
+stop sign
+table
+tennis racquet
+The Eiffel Tower
+The Mona Lisa
+toilet
+tornado
+traffic light
+tree
+triangle
+t-shirt
+umbrella
+wine glass
