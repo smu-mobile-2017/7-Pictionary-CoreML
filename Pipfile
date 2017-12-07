@@ -15,6 +15,7 @@ tensorflow-gpu = "*"
 "h5py" = "*"
 matplotlib = "*"
 sklearn = "*"
+seaborn = "*"
 
 
 [dev-packages]
